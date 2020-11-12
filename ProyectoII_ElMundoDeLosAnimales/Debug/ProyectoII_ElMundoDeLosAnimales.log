@@ -1,0 +1,10 @@
+﻿  Arbol.cpp
+  Interfaz.cpp
+G:\Gato\Programacion\c++ work´s\Datos 2013\ProyectoII_ElMundoDeLosAnimales\ProyectoII_ElMundoDeLosAnimales\Interfaz.cpp(16,12): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+G:\Gato\Programacion\c++ work´s\Datos 2013\ProyectoII_ElMundoDeLosAnimales\ProyectoII_ElMundoDeLosAnimales\Interfaz.cpp(18,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  main.cpp
+  Nodo.cpp
+  Sistema.cpp
+  Generating Code...
+G:\Gato\Programacion\c++ work´s\Datos 2013\ProyectoII_ElMundoDeLosAnimales\ProyectoII_ElMundoDeLosAnimales\Interfaz.cpp(237): warning C4715: 'Interfaz::siNo': not all control paths return a value
+  ProyectoII_ElMundoDeLosAnimales.vcxproj -> G:\Gato\Programacion\c++ work´s\Datos 2013\ProyectoII_ElMundoDeLosAnimales\Debug\ProyectoII_ElMundoDeLosAnimales.exe
